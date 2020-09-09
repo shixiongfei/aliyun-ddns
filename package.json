@@ -1,0 +1,27 @@
+{
+  "name": "aliyun-ddns",
+  "version": "1.0.0",
+  "description": "Aliyun DDNS Client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixiongfei/aliyun-ddns.git"
+  },
+  "keywords": [
+    "aliyun",
+    "ddns",
+    "dns"
+  ],
+  "author": "shixiongfei",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shixiongfei/aliyun-ddns/issues"
+  },
+  "homepage": "https://github.com/shixiongfei/aliyun-ddns#readme",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.9"
+  }
+}
