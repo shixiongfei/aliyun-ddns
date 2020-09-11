@@ -1,3 +1,14 @@
+/*
+ *  Aliyun DDNS
+ *
+ *  copyright (c) 2020 Xiongfei Shi
+ *
+ *  author: Xiongfei Shi <jenson.shixf(a)gmail.com>
+ *  license: Apache-2.0
+ *
+ *  https://github.com/shixiongfei/aliyun-ddns
+ */
+
 "use strict";
 
 const Core = require('@alicloud/pop-core');
